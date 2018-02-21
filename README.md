@@ -11,4 +11,4 @@ LAUNCH PPRODUCTION mode:
 Starter include:
 1) Gulp basic setup for theme development
 2) Installed Bootstrap 4 grid
-3) jQuery v.2.1.1
+3) jQuery v.3.0.0
