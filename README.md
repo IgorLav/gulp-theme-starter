@@ -1,5 +1,5 @@
 PREREQUISITES:
-You must have install an node.js if you don't have one.
+You must have an installed node.js if you don't have one.
 - `npm install` - Install dependencies.
 
 LAUNCH DEV mode:
