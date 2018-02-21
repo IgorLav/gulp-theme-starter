@@ -1,5 +1,5 @@
 {
-  "name": "iLavs base gulp starter for theme building",
+  "name": "iLavs-gulp-starter",
   "version": "1.0.0",
   "description": "Easy start to build WP and HTML themes",
   "repository": "https://github.com/IgorLav/gulp-theme-starter",
